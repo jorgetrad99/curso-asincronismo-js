@@ -1,0 +1,11 @@
+{
+  "name": "curso-asinc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "author": "Jorge Trad <jetradl@gmail.com>",
+  "license": "MIT"
+}
